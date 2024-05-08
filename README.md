@@ -2,7 +2,7 @@
 SHOESH
 
 ## PROJECT By Dania Azzahra
-## Program: Jabar Digital Academy (Fullstack Program)
+Program: Jabar Digital Academy (Fullstack Program)
 
 ## Description Project
 
